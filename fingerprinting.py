@@ -1,17 +1,18 @@
-## Fingerprints
-# (C) Michael Schmuker
 # Substructure fingerprints for odorants
-# please cite this git repo and also [1] when using it
 #
-# Shawn D Burton, Audrey Brown, Thomas P Eiting, Isaac A Youngstrom, 
+# Apache License 2.0
+# see LICENSE.txt
+#
+# (C) 2022 Michael Schmuker
+# please cite this git repo and also [1] when using it.
+#
+# [1] Shawn D Burton, Audrey Brown, Thomas P Eiting, Isaac A Youngstrom, 
 # Thomas C Rust, Michael Schmuker, Matt Wachowiak (2022). Mapping 
 # odorant sensitivities reveals a sparse but structured representation 
 # of olfactory chemical space by sensory input to the mouse olfactory 
 # bulb. 
 # eLife 11:e80470 
 # https://doi.org/10.7554/eLife.80470
-
-# Works similarly to MACCS keys in RDKit. 
 
 from rdkit import Chem
 import numpy as np
