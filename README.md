@@ -1,6 +1,6 @@
 # Elife '22 smarts fingerprint
 
-This code computes the 42-element substructure fingerprint, as in [1].
+This code computes the 42-element substructure fingerprint, as in [1](1).
 
 ## Requirements
 1. Numpy
