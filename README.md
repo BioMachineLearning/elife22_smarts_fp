@@ -4,7 +4,7 @@ This code computes the 42-element substructure fingerprint, as in \[1\].
 
 ## Requirements
 1. Numpy
-1. RDKit: `pip install rdkit` or `conda install -c rdkit rdkit`
+1. RDKit: `pip install rdkit`
 
 ## Quick start
 ```
